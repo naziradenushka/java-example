@@ -1,0 +1,8 @@
+# если java проект
+.idea/
+homework.iml
+
+*.sass
+bin/
+admin/
+config/
